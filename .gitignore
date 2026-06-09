@@ -1,0 +1,13 @@
+# Python Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Geçici Arayüz Dosyaları ve Üretilen Raporlar
+temp_heatmap.png
+*.pdf
+
+# İşletim Sistemi Çöpleri
+.DS_Store
+Thumbs.db
+.vscode/
